@@ -41,6 +41,7 @@ module "example" {
 |------|---------|
 | <a name="provider_alicloud"></a> [alicloud](#provider\_alicloud) | > = 1.123.1 |
 
+## More source code of Terraform to create Alibaba Cloud Resources, please visit [Terraform Alibaba Cloud Modules on Github](https://github.com/terraform-alicloud-modules)
 
 ## Reference
 
