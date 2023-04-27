@@ -28,11 +28,6 @@ module "example" {
 }
 ```
 
-## Notes
-
-* This module using AccessKey and SecretKey are from `profile` and `shared_credentials_file`. If you have not set them
-  yet, please install [aliyun-cli](https://github.com/aliyun/aliyun-cli#installation) and configure it.
-
 ## Requirements
 
 | Name | Version |
@@ -46,20 +41,6 @@ module "example" {
 |------|---------|
 | <a name="provider_alicloud"></a> [alicloud](#provider\_alicloud) | > = 1.123.1 |
 
-## Submit Issues
-
-If you have any problems when using this module, please opening
-a [provider issue](https://github.com/aliyun/terraform-provider-alicloud/issues/new) and let us know.
-
-**Note:** There does not recommend opening an issue on this repo.
-
-## Authors
-
-Created and maintained by Alibaba Cloud Terraform Team(terraform@alibabacloud.com)
-
-## License
-
-MIT Licensed. See LICENSE for full details.
 
 ## Reference
 
